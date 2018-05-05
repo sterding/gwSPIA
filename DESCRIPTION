@@ -1,0 +1,15 @@
+Package: GWSPIA
+Title: What the Package Does (one line, title case)
+Version: 0.0.0.9000
+Authors@R: person("Zhenshen", "Bao", email = "bzsbao@163.com", role = c("aut", "cre"))
+Description: GWSPIA: Improved signaling pathway impact analysis with gene weights
+Depends: R (>= 3.3.1)
+Imports: KEGGgraph,SPIA,igraph
+License: everyone
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+NeedsCompilation: no
+Packaged: 2018-04-11 04:05:15 UTC; Administrator
+Author: Zhenshen Bao [aut, cre]
+Maintainer: Zhenshen Bao <bzsbao@163.com>
